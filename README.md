@@ -8,7 +8,7 @@ I'm interested in Data Science field, such as Data Scientist and Data Analyst. W
 
 More about ME! [HERE!](https://davidgiraldy.github.io)
 
-## Sumary
+## Summary
 
 - 🎓 Education : BINUS University, Computer Science and Mathematics
 - 🎯 Stream : Artificial Intelligence
