@@ -28,6 +28,7 @@ More about ME! (Portofolio) [HERE!](https://davidgiraldy.github.io)
 - HTML5
 - CSS3
 - JavaScript
+- JSP
 
 ## 🔧 Tools
 
