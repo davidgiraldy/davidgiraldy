@@ -1,6 +1,6 @@
 # Hello!👋 I'm David Jose Giraldy
 
-Currently studying in BINUS University, Majoring Computer Science and Mathematics `</br>`
+Currently studying in BINUS University, Majoring Computer Science and Mathematics
 
 I LOVE Programming. I enjoy delving deeply into problems in order to find better, more efficient solutions. willing to learn new things and improve myself. 
 
