@@ -13,7 +13,7 @@ I'm interested in Data Science field, such as Data Scientist and Data Analyst. W
 
 ## Connect With ME!
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/davidjosegiraldy/#gh-light-mode-only)&nbsp;  [![website](./img/twitter-light.svg)](https://twitter.com/neferlides#gh-light-mode-only)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/davidjosegiraldy/#gh-light-mode-only)&nbsp;  [![website](twitter-light.svg)](https://twitter.com/neferlides#gh-light-mode-only)
 
 ## 💻 Technical Skills
 
