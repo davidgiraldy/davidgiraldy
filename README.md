@@ -10,8 +10,10 @@ More about ME! [HERE!](https://davidgiraldy.github.io)
 
 ## Sumary
 
-- 🎓 BINUS University, Computer Science and Mathematics
+- 🎓 Education : BINUS University, Computer Science and Mathematics
+- 🎯 Stream : Artificial Intelligence
 - 💻 Interest : Data Scientist, Data Analyst
+- 📧 Enail : david.giraldy@binus.ac.id
 
 ## Connect With ME!
 
