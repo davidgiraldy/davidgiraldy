@@ -13,7 +13,7 @@ More about ME! [HERE!](https://davidgiraldy.github.io)
 - 🎓 Education : BINUS University, Computer Science and Mathematics
 - 🎯 Stream : Artificial Intelligence
 - 💻 Interest : Data Scientist, Data Analyst
-- 📧 Enail : david.giraldy@binus.ac.id
+- 📧 Email : david.giraldy@binus.ac.id
 
 ## Connect With ME!
 
