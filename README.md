@@ -1,4 +1,4 @@
-# Hello!, I'm David Jose Giraldy
+# Hello!👋 I'm David Jose Giraldy
 
 Currently studying in BINUS University, Majoring Computer Science and Mathematics `</br>`
 
