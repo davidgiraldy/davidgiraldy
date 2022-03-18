@@ -20,6 +20,7 @@ More about ME! (Portofolio) [HERE!](https://davidgiraldy.github.io)
 <p align="left">
 <a href="https://linkedin.com/in/davidjosegiraldy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidjosegiraldy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/neferlides" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neferlides" height="30" width="40" /></a>
+<a href="https://discord.gg/user/450795363658366976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="user/450795363658366976" height="30" width="40" /></a>
 <a href="https://twitter.com/neferlides" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neferlides" height="30" width="40" /></a>
 <a href="https://instagram.com/davidgiraldy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidgiraldy" height="30" width="40" /></a>
 
