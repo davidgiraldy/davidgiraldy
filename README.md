@@ -60,6 +60,7 @@ More about ME! (Portofolio) [HERE!](https://davidgiraldy.github.io)
 
 
 ## 📚 Projects
+- House Prediction using ElasticNet Regression [Click!](https://github.com/davidgiraldy/house_prediction)
 
 ## 🌠 Others
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidgiraldy&show_icons=true&locale=en" alt="davidgiraldy" /></p>
