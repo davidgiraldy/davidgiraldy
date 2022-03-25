@@ -55,6 +55,7 @@ More about ME! (Portofolio) [HERE!](https://davidgiraldy.github.io)
 - Visual Studio Code
 - Jupyter Notebook
 - Anaconda Navigator
+- Android Studio
 - Eclipse
 - Microsoft SQL Server Management Studio
 - Microsoft Office
