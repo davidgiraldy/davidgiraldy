@@ -64,7 +64,7 @@ More about ME! (Portofolio) [HERE!](https://davidgiraldy.github.io)
 ## 📚 Projects
 - House Prediction using ElasticNet Regression [HERE!](https://github.com/davidgiraldy/house_prediction)
 - Heart Disease Prediction using Logistic Regression [HERE!](https://github.com/davidgiraldy/heart_disease_prediction)
-- Classify Rock or Mines from Sonar Frequency using KNN [HERE!](https://github.com/davidgiraldy/classify-rock-mines-using-knn)
+- Sonar Data Frequency to Detect Rock or Mines using K Nearest Neighbors [HERE!](https://github.com/davidgiraldy/classify-rock-mines-using-knn)
 
 ## 🌠 Others
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidgiraldy&show_icons=true&locale=en" alt="davidgiraldy" /></p>
