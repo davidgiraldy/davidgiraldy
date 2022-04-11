@@ -64,7 +64,7 @@ More about ME! (Portofolio) [HERE!](https://davidgiraldy.github.io)
 ## 📚 Projects
 - House Price Prediction using Linear Regression [HERE!](https://github.com/davidgiraldy/house_price_prediction_using_linear_regression)
 - Heart Disease Prediction using Logistic Regression [HERE!](https://github.com/davidgiraldy/heart_disease_prediction)
-- Sonar Data Frequency to Detect Rock or Mines using K Nearest Neighbors [HERE!](https://github.com/davidgiraldy/Sonar-Data-Frequency-to-Classify-Rock-or-Mines-using-K-Nearest-Neighbors)
+- Sonar Data Frequency to Classify Rock or Mines using K Nearest Neighbors [HERE!](https://github.com/davidgiraldy/Sonar-Data-Frequency-to-Classify-Rock-or-Mines-using-K-Nearest-Neighbors)
 
 ## 🌠 Others
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidgiraldy&show_icons=true&locale=en" alt="davidgiraldy" /></p>
