@@ -12,6 +12,7 @@ I'm interested in Data Science field, such as Data Scientist and Data Analyst. W
 - 🎯 Stream : Artificial Intelligence
 - 💻 Interest : Data Scientist, Data Analyst
 - 📧 Email : davidjosegiraldy@gmail.com
+- ☎ Phone : 0813 8888 3004
 
 ## Connect With ME!
 
