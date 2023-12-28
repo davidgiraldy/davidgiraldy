@@ -6,8 +6,6 @@ I LOVE Programming. I enjoy delving deeply into problems in order to find better
 
 I'm interested in Data Science field, such as Data Scientist and Data Analyst. We can look for a value in data to solve real-world problems.
 
-More about ME! (Portofolio) [HERE!](https://davidgiraldy.github.io)
-
 ## Summary
 
 - 🎓 Education : BINUS University, Computer Science and Mathematics
