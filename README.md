@@ -31,9 +31,12 @@ I'm interested in Data Science field, such as Data Scientist and Data Analyst. W
 
 
 ## 📚 Projects
+- PT. Maybank Indonesia Finance - Credit Scoring Project using Several Machine Learning Algorithm with Hyperparameter Tuning
+- Recommender System using Weight Hybrid Filtering (Content Based Filtering using Ridge Regression + Collaborative Filtering using Deep Neural Network), Deploy using Flask
 - Customer Churn Classification [HERE!](https://github.com/davidgiraldy/telco-churn-classification)
 - House Price Prediction using Linear Regression [HERE!](https://github.com/davidgiraldy/house_price_prediction_using_linear_regression)
 - Heart Disease Prediction using Logistic Regression [HERE!](https://github.com/davidgiraldy/heart_disease_prediction)
+- Sonar Data Frequency to Classify Rock or Mines using K Nearest Neighbors [HERE!](https://github.com/davidgiraldy/Sonar-Data-Frequency-to-Classify-Rock-or-Mines-using-K-Nearest-Neighbors)
 
 ## 💻 Technical Skills
 
@@ -68,7 +71,7 @@ I'm interested in Data Science field, such as Data Scientist and Data Analyst. W
 - Eclipse
 - Microsoft SQL Server Management Studio
 - Microsoft Office
-- Sonar Data Frequency to Classify Rock or Mines using K Nearest Neighbors [HERE!](https://github.com/davidgiraldy/Sonar-Data-Frequency-to-Classify-Rock-or-Mines-using-K-Nearest-Neighbors)
+
 
 ## 🌠 Others
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidgiraldy&show_icons=true&locale=en" alt="davidgiraldy" /></p>
