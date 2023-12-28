@@ -11,7 +11,7 @@ I'm interested in Data Science field, such as Data Scientist and Data Analyst. W
 - 🎓 Education : BINUS University, Computer Science and Mathematics
 - 🎯 Stream : Artificial Intelligence
 - 💻 Interest : Data Scientist, Data Analyst
-- 📧 Email : david.giraldy@binus.ac.id
+- 📧 Email : davidjosegiraldy@gmail.com
 
 ## Connect With ME!
 
